@@ -1,0 +1,18 @@
+# Secrets - NEVER commit
+.env
+credentials.json
+
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Mac files
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
