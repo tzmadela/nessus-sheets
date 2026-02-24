@@ -89,7 +89,7 @@ Hosts are sorted by risk score so the most vulnerable appear first.
 
 Fill in your values:
 
-    NESSUS_URL=https://your-nessus-server:8834
+    NESSUS_URL=https://your-nessus-server
     NESSUS_ACCESS_KEY=your-access-key
     NESSUS_SECRET_KEY=your-secret-key
     SPREADSHEET_ID=your-spreadsheet-id
